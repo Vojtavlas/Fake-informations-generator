@@ -1,4 +1,3 @@
-
 #By Github:VojtaVlas
 from faker import Faker
 fake = Faker()
